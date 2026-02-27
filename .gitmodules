@@ -1,3 +1,6 @@
 [submodule "plasma/tokyonight-kde"]
 	path = plasma/tokyonight-kde
 	url = https://github.com/nonetrix/tokyonight-kde.git
+[submodule "plasma/Tokyo-Night-Konsole"]
+	path = plasma/Tokyo-Night-Konsole
+	url = https://github.com/boooooooaq/Tokyo-Night-Konsole.git
