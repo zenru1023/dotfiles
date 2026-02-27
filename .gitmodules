@@ -1,0 +1,3 @@
+[submodule "plasma/tokyonight-kde"]
+	path = plasma/tokyonight-kde
+	url = https://github.com/nonetrix/tokyonight-kde.git
